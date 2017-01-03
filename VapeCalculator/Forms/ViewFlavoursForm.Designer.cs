@@ -125,7 +125,7 @@
             this.Controls.Add(this.btnSave);
             this.Controls.Add(this.lstFlavours);
             this.Name = "ViewFlavoursForm";
-            this.Text = "ViewFlavoursForm";
+            this.Text = "View Flavours";
             this.Load += new System.EventHandler(this.ViewFlavoursForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

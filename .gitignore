@@ -4,3 +4,6 @@
 
 /.vs/VapeCalculator/v14
 /packages/LiteDB.2.0.4
+/VapeCalculator/bin/Debug
+/VapeCalculator/obj/Debug
+/VapeCalculator.sln
