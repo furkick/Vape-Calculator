@@ -197,7 +197,7 @@
             // chkType
             // 
             this.chkType.AutoSize = true;
-            this.chkType.Location = new System.Drawing.Point(160, 388);
+            this.chkType.Location = new System.Drawing.Point(153, 388);
             this.chkType.Name = "chkType";
             this.chkType.Size = new System.Drawing.Size(66, 17);
             this.chkType.TabIndex = 35;
@@ -308,7 +308,7 @@
             // 
             // txtJuiceAmount
             // 
-            this.txtJuiceAmount.Location = new System.Drawing.Point(55, 41);
+            this.txtJuiceAmount.Location = new System.Drawing.Point(75, 42);
             this.txtJuiceAmount.Name = "txtJuiceAmount";
             this.txtJuiceAmount.Size = new System.Drawing.Size(53, 20);
             this.txtJuiceAmount.TabIndex = 23;
@@ -317,7 +317,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(12, 16);
+            this.label1.Location = new System.Drawing.Point(26, 16);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(153, 15);
             this.label1.TabIndex = 22;
@@ -507,14 +507,14 @@
             this.groupBox3.Controls.Add(this.label4);
             this.groupBox3.Location = new System.Drawing.Point(404, 78);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(200, 297);
+            this.groupBox3.Size = new System.Drawing.Size(200, 313);
             this.groupBox3.TabIndex = 7;
             this.groupBox3.TabStop = false;
             // 
             // lblFlavourSixMG
             // 
             this.lblFlavourSixMG.AutoSize = true;
-            this.lblFlavourSixMG.Location = new System.Drawing.Point(130, 164);
+            this.lblFlavourSixMG.Location = new System.Drawing.Point(130, 175);
             this.lblFlavourSixMG.Name = "lblFlavourSixMG";
             this.lblFlavourSixMG.Size = new System.Drawing.Size(0, 13);
             this.lblFlavourSixMG.TabIndex = 43;
@@ -522,16 +522,16 @@
             // label19
             // 
             this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(11, 163);
+            this.label19.Location = new System.Drawing.Point(11, 174);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(85, 13);
+            this.label19.Size = new System.Drawing.Size(68, 13);
             this.label19.TabIndex = 42;
-            this.label19.Text = "Sixth Flavour mg";
+            this.label19.Text = "Sixth Flavour";
             // 
             // lblFlavourFiveMG
             // 
             this.lblFlavourFiveMG.AutoSize = true;
-            this.lblFlavourFiveMG.Location = new System.Drawing.Point(130, 138);
+            this.lblFlavourFiveMG.Location = new System.Drawing.Point(130, 149);
             this.lblFlavourFiveMG.Name = "lblFlavourFiveMG";
             this.lblFlavourFiveMG.Size = new System.Drawing.Size(0, 13);
             this.lblFlavourFiveMG.TabIndex = 41;
@@ -539,17 +539,17 @@
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Location = new System.Drawing.Point(11, 137);
+            this.label18.Location = new System.Drawing.Point(11, 148);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(82, 13);
+            this.label18.Size = new System.Drawing.Size(65, 13);
             this.label18.TabIndex = 40;
-            this.label18.Text = "Fifth Flavour mg";
+            this.label18.Text = "Fifth Flavour";
             // 
             // lblTotal
             // 
             this.lblTotal.AutoSize = true;
             this.lblTotal.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblTotal.Location = new System.Drawing.Point(127, 276);
+            this.lblTotal.Location = new System.Drawing.Point(127, 287);
             this.lblTotal.Name = "lblTotal";
             this.lblTotal.Size = new System.Drawing.Size(0, 15);
             this.lblTotal.TabIndex = 39;
@@ -558,7 +558,7 @@
             // 
             this.label12.AutoSize = true;
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label12.Location = new System.Drawing.Point(11, 276);
+            this.label12.Location = new System.Drawing.Point(11, 287);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(39, 15);
             this.label12.TabIndex = 38;
@@ -567,7 +567,7 @@
             // lblNicMG
             // 
             this.lblNicMG.AutoSize = true;
-            this.lblNicMG.Location = new System.Drawing.Point(130, 242);
+            this.lblNicMG.Location = new System.Drawing.Point(130, 253);
             this.lblNicMG.Name = "lblNicMG";
             this.lblNicMG.Size = new System.Drawing.Size(0, 13);
             this.lblNicMG.TabIndex = 37;
@@ -575,7 +575,7 @@
             // lblPGMG
             // 
             this.lblPGMG.AutoSize = true;
-            this.lblPGMG.Location = new System.Drawing.Point(130, 216);
+            this.lblPGMG.Location = new System.Drawing.Point(130, 227);
             this.lblPGMG.Name = "lblPGMG";
             this.lblPGMG.Size = new System.Drawing.Size(0, 13);
             this.lblPGMG.TabIndex = 36;
@@ -583,7 +583,7 @@
             // lblVGMG
             // 
             this.lblVGMG.AutoSize = true;
-            this.lblVGMG.Location = new System.Drawing.Point(130, 190);
+            this.lblVGMG.Location = new System.Drawing.Point(130, 201);
             this.lblVGMG.Name = "lblVGMG";
             this.lblVGMG.Size = new System.Drawing.Size(0, 13);
             this.lblVGMG.TabIndex = 35;
@@ -591,7 +591,7 @@
             // lblFlavourFourMG
             // 
             this.lblFlavourFourMG.AutoSize = true;
-            this.lblFlavourFourMG.Location = new System.Drawing.Point(130, 112);
+            this.lblFlavourFourMG.Location = new System.Drawing.Point(130, 123);
             this.lblFlavourFourMG.Name = "lblFlavourFourMG";
             this.lblFlavourFourMG.Size = new System.Drawing.Size(0, 13);
             this.lblFlavourFourMG.TabIndex = 34;
@@ -599,7 +599,7 @@
             // lblFlavourThreeMG
             // 
             this.lblFlavourThreeMG.AutoSize = true;
-            this.lblFlavourThreeMG.Location = new System.Drawing.Point(130, 86);
+            this.lblFlavourThreeMG.Location = new System.Drawing.Point(130, 97);
             this.lblFlavourThreeMG.Name = "lblFlavourThreeMG";
             this.lblFlavourThreeMG.Size = new System.Drawing.Size(0, 13);
             this.lblFlavourThreeMG.TabIndex = 33;
@@ -607,7 +607,7 @@
             // lblFlavourTwoMG
             // 
             this.lblFlavourTwoMG.AutoSize = true;
-            this.lblFlavourTwoMG.Location = new System.Drawing.Point(130, 60);
+            this.lblFlavourTwoMG.Location = new System.Drawing.Point(130, 71);
             this.lblFlavourTwoMG.Name = "lblFlavourTwoMG";
             this.lblFlavourTwoMG.Size = new System.Drawing.Size(0, 13);
             this.lblFlavourTwoMG.TabIndex = 32;
@@ -615,7 +615,7 @@
             // lblFlavourOneMG
             // 
             this.lblFlavourOneMG.AutoSize = true;
-            this.lblFlavourOneMG.Location = new System.Drawing.Point(130, 34);
+            this.lblFlavourOneMG.Location = new System.Drawing.Point(130, 45);
             this.lblFlavourOneMG.Name = "lblFlavourOneMG";
             this.lblFlavourOneMG.Size = new System.Drawing.Size(0, 13);
             this.lblFlavourOneMG.TabIndex = 31;
@@ -623,75 +623,75 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(11, 241);
+            this.label11.Location = new System.Drawing.Point(11, 252);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(40, 13);
+            this.label11.Size = new System.Drawing.Size(23, 13);
             this.label11.TabIndex = 30;
-            this.label11.Text = "Nic mg";
+            this.label11.Text = "Nic";
             // 
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(11, 215);
+            this.label10.Location = new System.Drawing.Point(11, 226);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(39, 13);
+            this.label10.Size = new System.Drawing.Size(22, 13);
             this.label10.TabIndex = 29;
-            this.label10.Text = "PG mg";
+            this.label10.Text = "PG";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(11, 189);
+            this.label9.Location = new System.Drawing.Point(11, 200);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(39, 13);
+            this.label9.Size = new System.Drawing.Size(22, 13);
             this.label9.TabIndex = 28;
-            this.label9.Text = "VG mg";
+            this.label9.Text = "VG";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(11, 111);
+            this.label8.Location = new System.Drawing.Point(11, 122);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(92, 13);
+            this.label8.Size = new System.Drawing.Size(75, 13);
             this.label8.TabIndex = 27;
-            this.label8.Text = "Fourth Flavour mg";
+            this.label8.Text = "Fourth Flavour";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(11, 85);
+            this.label7.Location = new System.Drawing.Point(11, 96);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(86, 13);
+            this.label7.Size = new System.Drawing.Size(69, 13);
             this.label7.TabIndex = 26;
-            this.label7.Text = "Third Flavour mg";
+            this.label7.Text = "Third Flavour";
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(11, 59);
+            this.label6.Location = new System.Drawing.Point(11, 70);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(99, 13);
+            this.label6.Size = new System.Drawing.Size(85, 13);
             this.label6.TabIndex = 25;
-            this.label6.Text = "Second Flavour mg";
+            this.label6.Text = "Second Flavour ";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(11, 33);
+            this.label5.Location = new System.Drawing.Point(11, 44);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(81, 13);
+            this.label5.Size = new System.Drawing.Size(64, 13);
             this.label5.TabIndex = 24;
-            this.label5.Text = "First Flavour mg";
+            this.label5.Text = "First Flavour";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(82, 12);
+            this.label4.Location = new System.Drawing.Point(55, 16);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(30, 15);
+            this.label4.Size = new System.Drawing.Size(92, 15);
             this.label4.TabIndex = 23;
-            this.label4.Text = "Mix";
+            this.label4.Text = "Mix in Grams";
             // 
             // btnCalculate
             // 

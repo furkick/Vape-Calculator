@@ -20,7 +20,7 @@ The main calculator is used to create the actual juice recipe to produce in gram
 - Change from PG nicotine to VG using checkbox.
 
 <p align="center">
-    <img src="https://s29.postimg.org/m9g6294hz/One.png" />
+    <img src="https://s24.postimg.org/f1uy4w9v9/One.png" />
 </p>
 
 ## List of Saved Flavours
