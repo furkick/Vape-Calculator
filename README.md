@@ -20,7 +20,7 @@ The main calculator is used to create the actual juice recipe to produce in gram
 - Change from PG nicotine to VG using checkbox.
 
 <p align="center">
-    <img src="https://s24.postimg.org/f1uy4w9v9/One.png" />
+    <img src="https://image.frl/i/iicwxpyrcea2opwn.png" />
 </p>
 
 ## List of Saved Flavours
@@ -33,7 +33,7 @@ The flavours form is used to create, update and delete your flavours/concentrate
 - Button to create a new flavour.
 
 <p align="center">
-    <img src="https://s29.postimg.org/u8bc5irw7/Two.png" />
+    <img src="https://image.frl/i/pmjwn0ol94qxo0h6.png" />
 </p>
 
 
@@ -46,7 +46,7 @@ The new flavours form is used to create a new flavour for your recipes.
 - Text boxes to input the name and weight (per ml) of a new flavour.
 
 <p align="center">
-    <img src="https://s27.postimg.org/9aoadlf4j/Three.png" />
+    <img src="https://image.frl/i/w1kik2pcavga2xrl.png" />
 </p>
 
 # Issues
